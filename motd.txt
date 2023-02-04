@@ -1,1 +1,4 @@
-Added Message Of The Day Added Speaker
+Added Admin And Kick Hammer
+Added Mod Vents
+Added Computer (BETA)
+Fixed Hand Colliders
