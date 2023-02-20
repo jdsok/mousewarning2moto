@@ -1,3 +1,3 @@
-Welcome To Chimp Jumpers
-This Game Is Still In 
-Development I Will Update This.
+Fixed Performance Issues 
+Added SandBox
+Added New Mod Cosmetic
