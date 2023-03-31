@@ -1,4 +1,5 @@
-The Update Will Come 
-Out Very Shortly At About
-        6PM AST
-So Hope You Guys Like It
+The Update Is Out And 
+Here Are The Changes
+-Fixed tutorial bug
+-Added Moon
+-Added something in Ice
